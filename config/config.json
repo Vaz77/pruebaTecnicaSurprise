@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "root",
+    "password": "WgyC4GgXFb17lY4UW72I",
+    "database": "prueba_tecnica",
+    "host": "containers-us-west-203.railway.app",
+    "dialect": "mysql",
+    "port": "7652"
+  },
+  "test": {
+    "username": "root",
+    "password": "root",
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
